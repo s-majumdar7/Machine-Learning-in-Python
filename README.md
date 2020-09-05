@@ -8,15 +8,15 @@ Here is a link to the following:
 
 ***Contents:***
 1. **Codes and Datasets**
-    - Data Preprocessing
-    - Regression
-    - Classification
-    - Clustering
-    - Association Rule Learning
-    - Reinforcement Learning
-    - Natural Language Processing
-    - Deep Learning
-    - Dimensionality Reduction
-    - Model Selection _ Boosting
+    - [Data Preprocessing](https://github.com/s-majumdar7/Machine-Learning-in-Python/tree/master/Codes%20and%20Datasets/Part%201%20-%20Data%20Preprocessing)
+    - [Regression]
+    - [Classification]
+    - [Clustering]
+    - [Association Rule Learning]
+    - [Reinforcement Learning]
+    - [Natural Language Processing]
+    - [Deep Learning]
+    - [Dimensionality Reduction]
+    - [Model Selection _ Boosting]
     
 2. **Breast_Cancer_Detection**
